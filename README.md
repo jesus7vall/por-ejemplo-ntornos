@@ -1,4 +1,4 @@
 # por-ejemplo-ntornos
 19/09/24
-###### Esto es un encabezado
+## ESTO ES UN ENCABEZADO
 **Asi se escribe negrita**
